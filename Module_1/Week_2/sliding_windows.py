@@ -11,7 +11,7 @@ def sliding_window(num_list, k):
 
     return max_list
     
-num_list = [3, 4, 5, 1, -44 , 5 ,10, 12 ,33, 1]
+num_list = [3, 4, 5, 1, -44, 5, 10, 12, 33, 1]
 k = 3
 
 max_value = sliding_window(num_list, k)
