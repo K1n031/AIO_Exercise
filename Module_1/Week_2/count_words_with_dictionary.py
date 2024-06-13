@@ -7,6 +7,7 @@ def count_chars(string):
             char_dict[char] = 1
     return char_dict
 
+
 str = 'Happiness'
 str_2 = 'smiles'
 

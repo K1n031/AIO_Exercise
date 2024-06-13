@@ -13,5 +13,6 @@ def word_count(file_path):
 
     return word_dict
 
+
 file_path = 'Data/P1_data.txt'
 print(word_count(file_path))
